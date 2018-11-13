@@ -4,7 +4,7 @@ HelloWord is a simple php class
 
 # Author
 
-Abderrahim Soubai Elidrissi
+ELKAROUANI Salah Eddine with ROMAC ;)
 
 # License
 
